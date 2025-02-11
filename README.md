@@ -1,6 +1,6 @@
 ## About me 👋
 
-Oi, sou Micael Leite. Comecei meus estudos em programação durante o curso técnico em Informática e tive a oportunidade de trabalhar como designer gráfico por dois anos. E isso me ajudou a explorar e conhecer o mundo da tecnologia e da criatividade e percepção em detalhes, apesar de serem áreas diferentes, a programação e o design possuem conexões e que me ajudaram a escolher ser desenvolvedor front-end. Atualmente, sou estudante de Sistemas de Informação no Instituto Federal do Ceará (IFCE) e estou em busca de uma oportunidade para minha carreira como desenvolvedor.
+Oi, sou Micael Leite. Comecei meus estudos em programação durante o curso técnico em Informática e tive a oportunidade de trabalhar como designer gráfico por dois anos. E isso me ajudou a explorar e conhecer o mundo da tecnologia e da criatividade, apesar de serem áreas diferentes, a programação e o design possuem conexões e que me ajudaram a escolher ser desenvolvedor front-end. Atualmente, sou estudante de Sistemas de Informação no Instituto Federal do Ceará (IFCE) e estou em busca de uma oportunidade para minha carreira como desenvolvedor.
 
 <!--
 **micaelleitee/micaelleitee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
