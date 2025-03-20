@@ -1,18 +1,36 @@
-## About me 👋
+# Micael Leite 👨🏽‍💻
 
-Oi, sou Micael Leite. Comecei meus estudos em programação durante o curso técnico em Informática e tive a oportunidade de trabalhar como designer gráfico por dois anos. E isso me ajudou a explorar e conhecer o mundo da tecnologia e da criatividade, apesar de serem áreas diferentes, a programação e o design possuem conexões e que me ajudaram a escolher ser desenvolvedor front-end. Atualmente, sou estudante de Sistemas de Informação no Instituto Federal do Ceará (IFCE) e estou em busca de uma oportunidade para minha carreira como desenvolvedor.
+Sou um Desenvolvedor WEB dedicado, criativo e adaptável, sempre em busca de aprendizado e desafios. Tenho experiência com design, o que me ajuda a criar interfaces intuitivas e funcionais. Valorizo o trabalho em equipe, colaboração e troca de conhecimento para alcançar melhores resultados. Atualmente, estou em busca de uma oportunidade de estágio ou trabalho para aplicar minhas habilidades e continuar evoluindo. 🚀
 
-<!--
-**micaelleitee/micaelleitee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-0D0628.svg?style=for-the-badge&logo=react) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3>
+  <picture>
+    <source type="image/webp" srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" />
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20" />
+  </picture>
+  Minhas estatísticas
+</h3>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="160" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Micaelleitee&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="160" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micaelleitee&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
