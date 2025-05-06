@@ -18,19 +18,16 @@ Sou um Desenvolvedor WEB dedicado, criativo e adaptável, sempre em busca de apr
 </h3>
 
 <p>
+ <p align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="160" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Micaelleitee&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Micaelleitee&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micaelleitee&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Languages" 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micaelleitee&theme=dark&layout=compact&hide=procfile&langs_count=6" 
   />
-
+</p>
 </p>
